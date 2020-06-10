@@ -8,7 +8,7 @@
 
 <center>
   <h1>
-    Converson de moedas em tempo real, criado em Flutter via API
+    Conversor de moedas em tempo real, criado em Flutter via API
   </h1>
   <p>Real, Dólar e Euro<p/>
 </center>
